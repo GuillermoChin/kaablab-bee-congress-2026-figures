@@ -4,7 +4,7 @@
 **Institution:** Instituto Tecnológico Superior de Calkiní (ITESCAM) — Laboratorio de Ambientes Inteligentes  
 **Congress:** “II Congreso sobre Abejas, Biodiversidad y Soberanía Alimentaria” 
 **Year:** 2026
-**Data:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19685877.svg)]((https://doi.org/10.5281/zenodo.19685877))
+**Data:** [https://doi.org/10.5281/zenodo.19685877]
 
 ---
 
